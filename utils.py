@@ -1,3 +1,14 @@
+#!/usr/bin/env python
+
+"""utils.py: Utility methods for AnalogMethod"""
+
+__author__ = "Georg Seyerl"
+__copyright__ = "Copyright 2019"
+__license__ = "MIT"
+__maintainer__ = "Georg Seyerl"
+__email__ = "g.seyerl@posteo.net"
+__status__ = "Development"
+
 import xarray as xr
 import pandas as pd
 
